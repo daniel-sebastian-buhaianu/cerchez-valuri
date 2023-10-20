@@ -1,1 +1,3 @@
 # cerchez-valuri
+Se considera subprogramul valuri, cu doi parametri: n, prin care primeste o valoare naturala 2 < n < 50 si v, prin care furnizeaza un tablou unidimensional cu 2*n elemente, valori intregi din intervalul [1, 2*n]. Subprogramul construieste tabloul v astfel incat, in acesta, sirul elementelor impare sa fie strict crescator, iar sirul elementelor pare sa fie strict descrescator. Primul element al tabloului este impar, iar doua elemente cu aceeasi paritate nu pot ocupa pozitii consecutive in tablou, ca in exemplu. Scrieti definitia completa a subprogramului.
+* Daca n=4, atunci dupa apel v = (1, 8, 3, 6, 5, 4, 7, 2)
